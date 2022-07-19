@@ -72,6 +72,7 @@ public class ProactiveMonitoringToolMain {
       MSISDNs.add("201069062615");
       MSISDNs.add("201020400028");
       MSISDNs.add("201030024022");
+      MSISDNs.add("201060020010");
       String message = "Proactive up and running";
       new SendMailUtil();
       SendMailUtil.sendRSMS(MSISDNs, message);
