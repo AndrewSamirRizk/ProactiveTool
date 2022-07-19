@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProactiveMonitoringTool:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProactiveMonitoringTool_jar</output-path>
+    <root id="archive" name="ProactiveMonitoringTool.jar">
+      <element id="module-output" name="ProactiveMonitoringTool" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dist/lib/sqljdbc4-2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dist/lib/httpclient-4.5.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dist/lib/jsch-0.1.53.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dist/lib/ojdbc6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/dist/lib/mail-1.4.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ProactiveMonitoringTool">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/ProactiveMonitoringTool.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
